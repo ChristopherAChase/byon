@@ -1,0 +1,9 @@
+{
+  "name": "byon-web-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/byon-web-e2e/src",
+  "implicitDependencies": ["byon-web"],
+  "// targets": "to see all targets run: nx show project byon-web-e2e --web",
+  "targets": {}
+}
